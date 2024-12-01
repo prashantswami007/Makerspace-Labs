@@ -1,0 +1,3 @@
+Julia Advanced (Fracktal work)
+
+The Julia Advanced 3D Printer, developed by Fracktal Works, is a professional-grade 3D printer designed for versatility, reliability, and ease of use. The printer offers automatic calibration to ensure optimal results and quick setup. It features a 3.5-inch touchscreen for easy operation and allows quick-swap nozzles, reducing downtime. The sturdy metallic chassis ensures durability, suitable for industrial applications like jigs, fixtures, and low-volume production.

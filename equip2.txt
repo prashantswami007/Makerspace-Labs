@@ -1,0 +1,3 @@
+Original Prusa XL
+
+The Original Prusa XL is a large-format FFF 3D printer with a 360 x 360 x 360 mm build area. Available with one or five heads, it supports efficient dual-material and multicolor printing using two independent heads. This advanced design enables faster production of intricate 3D objects, making it ideal for both single-material and complex, multi-material projects.
